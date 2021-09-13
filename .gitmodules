@@ -1,0 +1,3 @@
+[submodule "pokedex.api"]
+	path = pokedex.api
+	url = https://github.com/floh1695/pokedex.api
